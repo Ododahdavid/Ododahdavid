@@ -44,4 +44,4 @@ I design and build data pipelines and infrastructure. My work sits at the inters
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/David-Ododah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ododah-a28101276?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
