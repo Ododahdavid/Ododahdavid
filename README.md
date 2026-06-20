@@ -1,12 +1,12 @@
 # Hi, I'm David Ododah 👋
 
-Software Engineering graduate from Babcock University, now focused on Data Engineering — building reliable pipelines, transforming raw data into useful assets, and scaling data infrastructure.
+Software Engineering graduate from Babcock University, now focused on Data Engineering; building reliable pipelines, transforming raw data into useful assets, and scaling data infrastructure.
 
 ---
 
 ## What I Do
 
-I design and build data pipelines and infrastructure. My work sits at the intersection of data ingestion, transformation, and orchestration — taking messy, high-volume data and making it queryable, reliable, and production-ready.
+I design and build data pipelines and infrastructure. My work sits at the intersection of data ingestion, transformation, and orchestration  taking messy, high volume data and making it queryable, reliable, and production ready.
 
 ---
 
@@ -33,12 +33,6 @@ I design and build data pipelines and infrastructure. My work sits at the inters
 **Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-**Flight Booking Data Pipeline** — An end-to-end pipeline built with PySpark, Apache Airflow, and GCP (GCS + BigQuery), with a CI/CD workflow managed via GitHub Actions.
 
 ---
 
